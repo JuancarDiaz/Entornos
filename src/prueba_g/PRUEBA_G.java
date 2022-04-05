@@ -15,7 +15,7 @@ public class PRUEBA_G {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("juancar");
+        System.out.println("JAVIER Y JUANCARLOS ");
     }
     
 }
