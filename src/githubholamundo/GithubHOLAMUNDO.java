@@ -5,10 +5,7 @@
  */
 package githubholamundo;
 
-/**
- *
- * @author juanc
- */
+
 public class GithubHOLAMUNDO {
 
     /**
